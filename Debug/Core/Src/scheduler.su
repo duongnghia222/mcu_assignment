@@ -1,0 +1,10 @@
+scheduler.c:28:6:initQueue	40	static
+scheduler.c:40:10:findPos	24	static
+scheduler.c:47:10:removeElement	32	static
+scheduler.c:56:10:removeFront	24	static
+scheduler.c:65:10:addElement	32	static
+scheduler.c:92:6:SCH_Init	8	static
+scheduler.c:96:10:SCH_Add_Task	56	static
+scheduler.c:108:10:SCH_Delete_Task	24	static
+scheduler.c:113:6:SCH_Update	4	static
+scheduler.c:127:6:SCH_Dispatch_Tasks	56	static
