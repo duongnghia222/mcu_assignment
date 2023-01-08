@@ -2,7 +2,7 @@
  * fsm_pedestrian.c
  *
  *  Created on: Dec 18, 2022
- *      Author: duchu
+ *      Author: hp
  */
 
 #include "fsm_pedestrian.h"

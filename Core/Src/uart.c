@@ -2,7 +2,7 @@
  * uart.c
  *
  *  Created on: Dec 18, 2022
- *      Author: Minh Duc Quach
+ *      Author: hp
  */
 
 #include "uart.h"
